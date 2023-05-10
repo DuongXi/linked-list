@@ -1,2 +1,2 @@
 # linked-list
-Data Structure & Algorimth homewwork
+Data Structure & Algorimth homework
