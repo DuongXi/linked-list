@@ -1,2 +1,2 @@
 # linked-list
-Bài tập CTDL và GT 
+Data Structure & Algorimth homewwork
