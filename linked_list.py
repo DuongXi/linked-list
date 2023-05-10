@@ -115,3 +115,4 @@ class linkedList:
                         count += 1
                     curNode.next = curNode.next.next
                     self.size -= 1
+#Vẫn có thể còn nhiều phương thức chưa được cho vào nhưng đây là một số cái tôi hiện tại nghĩ ra được
